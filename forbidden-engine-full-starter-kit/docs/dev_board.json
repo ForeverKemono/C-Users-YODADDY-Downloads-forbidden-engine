@@ -1,0 +1,10 @@
+{
+  "name": "Forbidden Engine Dev Board",
+  "description": "Tracks major modules, sprints, and backlog for Forbidden Engine",
+  "columns": [
+    { "name": "To Do" },
+    { "name": "In Progress" },
+    { "name": "Review" },
+    { "name": "Done" }
+  ]
+}
